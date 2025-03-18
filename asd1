@@ -1,0 +1,81 @@
+[
+  {
+    "sectionName": "политика",
+    "voteList": [
+      {
+        "name": "кто мэр города?",
+        "description": "близятся выборы",
+        "voteCreatorName": "Иван Иванов",
+        "optionsCount": 3,
+        "options": [
+          "Чел а",
+          "Чел б",
+          "Чел в"
+        ],
+        "numOfVotedUsers": [
+          10,
+          5,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "голосование",
+    "voteList": [
+      {
+        "name": "лучшая пицца",
+        "description": "выбор любимой пиццы",
+        "voteCreatorName": "Анна Смирнова",
+        "optionsCount": 3,
+        "options": [
+          "1. пепперони",
+          "2. 3 сыра",
+          "3. с ананасами"
+        ],
+        "numOfVotedUsers": [
+          25,
+          15,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "обсуждения",
+    "voteList": [
+      {
+        "name": "новости технологий",
+        "description": "будущее искусственного интеллекта",
+        "voteCreatorName": "Дмитрий Кузнецов",
+        "optionsCount": 2,
+        "options": [
+          "1. это будущее",
+          "2. не верю"
+        ],
+        "numOfVotedUsers": [
+          40,
+          20
+        ]
+      },
+      {
+        "name": "какой язык программирования лучший?",
+        "description": "обсуждение языков программирования",
+        "voteCreatorName": "Екатерина Логинова",
+        "optionsCount": 4,
+        "options": [
+          "1. Java",
+          "2. Python",
+          "3. C#",
+          "4. JavaScript"
+        ],
+        "numOfVotedUsers": [
+          10,
+          25,
+          8,
+          18
+        ]
+      }
+    ]
+  }
+]

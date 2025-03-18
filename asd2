@@ -1,0 +1,42 @@
+[
+  {
+    "sectionName": "Здесь был МИСТЕР ХиПСТЕР",
+    "voteList": [
+      {
+        "name": "кто мэр города?",
+        "description": "близятся выборы",
+        "optionsCount": 0,
+        "options": [
+          "Чел а",
+          "Чел б",
+          "Чел в"
+        ],
+        "numOfVotedUsers": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "голосование",
+    "voteList": [
+      {
+        "name": "ыффывф",
+        "description": "лучшая пицца 2",
+        "optionsCount": 0,
+        "options": [
+          "1. пепперони",
+          "2. 3 сыра",
+          "3. с ананасами"
+        ],
+        "numOfVotedUsers": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]
